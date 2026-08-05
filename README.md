@@ -32,7 +32,16 @@ My portfolio focuses on end-to-end analytics projects involving data cleaning, S
 </p>
 
 ---
+## 📊 GitHub Statistics
 
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=sujalltanti&show_icons=true&theme=github_dark&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujalltanti&layout=compact&theme=github_dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=sujalltanti&theme=github-dark&hide_border=true" />
+</p>
 # 📂 Featured Projects
 
 ## 📈 Sales Performance Dashboard

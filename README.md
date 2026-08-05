@@ -18,18 +18,18 @@ My portfolio focuses on end-to-end analytics projects involving data cleaning, S
 
 ---
 
-## 🛠️ Technical Skills
+## 🛠️ Tech Stack
 
-- SQL (MySQL)
-- Python
-- Microsoft Excel
-- Tableau
-- Power BI
-- Pandas
-- Data Cleaning
-- Data Visualization
-- Exploratory Data Analysis (EDA)
-- Business Analytics
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,mysql" />
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+</p>
 
 ---
 

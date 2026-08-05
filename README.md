@@ -34,9 +34,9 @@ My portfolio focuses on end-to-end analytics projects involving data cleaning, S
 ---
 ## 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sujalltanti&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sujalltanti&show_icons=true&theme=github_dark&cache_seconds=1800)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sujalltanti&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sujalltanti&layout=compact&theme=github_dark&cache_seconds=1800)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=sujalltanti&theme=tokyonight)
 
